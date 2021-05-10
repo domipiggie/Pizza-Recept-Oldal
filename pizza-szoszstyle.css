@@ -37,7 +37,7 @@ h1 {
     background-color: lightgray;
     width: 450px;
     font-size: large;
-    margin-bottom: -50px;
+    border: solid 2px black;
 }
 
 .mainpizza {

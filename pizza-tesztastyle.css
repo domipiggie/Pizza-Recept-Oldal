@@ -42,6 +42,7 @@ img {
     background-color: lightgray;
     width: 450px;
     font-size: large;
+    border: solid 2px black;
     /*margin-bottom: -50px;*/
 }
 
