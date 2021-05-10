@@ -1,0 +1,54 @@
+body {
+    background-image: url("res/back.jpg");
+}
+
+h1 {
+    margin: 0px;
+}
+
+.main {
+    background-color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+}
+
+.text {
+    margin-top: 25px;
+    margin-left: 20px;
+}
+
+.bigger {
+    font-weight: bolder;
+}
+
+.list {
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+.stats {
+    padding: 20px;
+    margin-left: 75px;
+    margin-top: 10px;
+    background-color: lightgray;
+    width: 450px;
+    font-size: large;
+    margin-bottom: -50px;
+}
+
+.mainpizza {
+    width: 216px;
+    height: 162px;
+    position: relative;
+    left: 316px;
+    bottom: 132px;
+}
+
+.next {
+    position: relative;
+    left: 90%;
+}
