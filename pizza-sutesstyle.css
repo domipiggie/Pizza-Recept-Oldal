@@ -6,6 +6,27 @@ h1 {
     margin: 0px;
 }
 
+h2 {
+    margin-left: 25px;
+}
+
+li {
+    padding: 10px;
+}
+
+img {
+    margin-top: 15px;
+    margin-bottom: 35px;
+    border: solid 2px black;
+}
+
+.miniimg {
+    margin-bottom: 0px;
+    margin-left: 25px;
+    width: 216px;
+    height: 162px;
+}
+
 .main {
     background-color: white;
     margin-left: 50px;
@@ -19,36 +40,13 @@ h1 {
 .text {
     margin-top: 25px;
     margin-left: 20px;
-}
-
-.bigger {
-    font-weight: bolder;
+    padding: 10px;
 }
 
 .list {
-    margin-top: 15px;
     margin-left: 30px;
 }
 
-.stats {
-    padding: 20px;
-    margin-left: 75px;
-    margin-top: 10px;
-    background-color: lightgray;
-    width: 450px;
-    font-size: large;
-    border: solid 2px black;
-}
-
-.mainpizza {
-    width: 216px;
-    height: 162px;
+.back {
     position: relative;
-    left: 316px;
-    bottom: 132px;
-}
-
-.next {
-    position: relative;
-    left: 90%;
 }

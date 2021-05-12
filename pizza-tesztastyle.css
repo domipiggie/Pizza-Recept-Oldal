@@ -16,6 +16,13 @@ img {
     border: solid 2px black;
 }
 
+.miniimg {
+    margin-bottom: 0px;
+    margin-left: 25px;
+    width: 100px;
+    height: 75px;
+}
+
 .main {
     background-color: white;
     margin-left: 50px;
